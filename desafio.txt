@@ -1,0 +1,11 @@
+
+resolver com o date-fns
+Obter a diferença de dias entre 15/09/2010 e 10/06/2020
+obter a diferença de meses entre 15/09/2011 e 28/06/2021
+adicionar 32 dias na data 20/03/2021
+
+
+resolver com o moment
+Obter a diferença de dias entre 15/09/2010 e 10/06/2020
+obter a diferença de meses entre 15/09/2011 e 28/06/2021
+adicionar 32 dias na data 20/03/2021
